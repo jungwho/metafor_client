@@ -4,7 +4,9 @@ export default function SearchBar() {
   return (
     <SearchBarWrapper>
       <Input placeholder="증상이나 질병을 입력해보세요!" />
+
       <SearchIcon src="/images/searchIcon.png" />
+      <SearchIcon src="/images/searchIcon.png" alt="SearchIcon" />
     </SearchBarWrapper>
   );
 }

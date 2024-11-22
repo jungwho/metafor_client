@@ -37,6 +37,9 @@ const PageWrapper = styled.div`
   height: 100vh;
   width: 100vw;
   margin-top: 180px;
+
+  background-color: #f0f0f0;
+  padding-top: 250px;
 `;
 
 const Container = styled.div`

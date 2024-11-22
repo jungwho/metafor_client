@@ -1,6 +1,7 @@
 import styled from "@emotion/styled";
 
 import Category from "../../src/utils/home/search/Category";
+
 import Location from "../../src/utils/home/Location";
 
 export default function HomePage() {
